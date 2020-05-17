@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/main.dir/node.c.o CMakeFiles/main.dir/teacher.c.o CMakeFiles/main.dir/student.c.o CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/comm.c.o CMakeFiles/main.dir/menu.c.o  -o main -rdynamic 
